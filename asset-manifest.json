@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/promote_physics/static/css/main.6fcd6338.chunk.css",
+    "main.js": "/promote_physics/static/js/main.d64a954b.chunk.js",
+    "main.js.map": "/promote_physics/static/js/main.d64a954b.chunk.js.map",
+    "runtime-main.js": "/promote_physics/static/js/runtime-main.7b381070.js",
+    "runtime-main.js.map": "/promote_physics/static/js/runtime-main.7b381070.js.map",
+    "static/js/2.54392b2a.chunk.js": "/promote_physics/static/js/2.54392b2a.chunk.js",
+    "static/js/2.54392b2a.chunk.js.map": "/promote_physics/static/js/2.54392b2a.chunk.js.map",
+    "index.html": "/promote_physics/index.html",
+    "static/css/main.6fcd6338.chunk.css.map": "/promote_physics/static/css/main.6fcd6338.chunk.css.map",
+    "static/js/2.54392b2a.chunk.js.LICENSE.txt": "/promote_physics/static/js/2.54392b2a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7b381070.js",
+    "static/js/2.54392b2a.chunk.js",
+    "static/css/main.6fcd6338.chunk.css",
+    "static/js/main.d64a954b.chunk.js"
+  ]
+}
